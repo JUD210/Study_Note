@@ -17,11 +17,11 @@ This repository is in use **for**
     - Descriptions
 
 ### ◆ Difficulty Table
-0.0~1.0: [E] Easy
-1.0~2.0: [N] Normal
-2.0~3.0: [C] Challenging
-3.0~4.0: [SC] Super Challenging
-4.0~5.0: [EC] Extremely Challenging
+- 0.0\~1.0: [E] Easy
+- 1.0\~2.0: [N] Normal
+- 2.0\~3.0: [C] Challenging
+- 3.0\~4.0: [SC] Super Challenging
+- 4.0\~5.0: [EC] Extremely Challenging
 
 ---
 ## < Project Achievements >
