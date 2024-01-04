@@ -47,9 +47,9 @@ This repository is in use **for**
 ## < Dev Study Achievements >
 - [ ] 2024.01 | ? | Complete the Book [코딩 테스트 합격자 되기 - 파이썬 편](https://www.yes24.com/Product/Goods/123272392)
 - [ ] 2024.01 | ? | Complete the Course [처음하는 풀스택을 위한 Flutter 부트캠프 - 풀스택 Part4](https://www.inflearn.com/course/풀스택-플러터-부트캠프)
-- [ ] 2024.01 | ? | Complete the Quiz: [Programmers - 코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc)
-- [ ] 2024.01 | ? | Complete the Quiz: [Programmers - 코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc)
-- [ ] 2024.02 | ? | Complete the Quiz: [Programmers - 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+- [ ] 2024.01 | ? | Complete the Challenges: [Programmers - 코딩 기초 트레이닝](https://school.programmers.co.kr/learn/challenges/training?order=acceptance_desc)
+- [ ] 2024.01 | ? | Complete the Challenges: [Programmers - 코딩테스트 입문](https://school.programmers.co.kr/learn/challenges/beginner?order=acceptance_desc)
+- [ ] 2024.02 | ? | Complete the Challenges: [Programmers - 코딩테스트 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
     - [ ] 2024.02 | ? | 해시
     - [ ] 2024.02 | ? | 스택/큐
     - [ ] 2024.02 | ? | 힙(Heap)
@@ -61,7 +61,7 @@ This repository is in use **for**
     - [ ] 2024.02 | ? | 이분탐색
     - [ ] 2024.02 | ? | 그래프
 
-- [ ] 2024.02 | ? | Complete the Quiz: [Programmers - SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
+- [ ] 2024.02 | ? | Complete the Challenges: [Programmers - SQL 고득점 Kit](https://school.programmers.co.kr/learn/challenges?tab=algorithm_practice_kit)
 - [ ] 2024.02 | ? | 
 
 
