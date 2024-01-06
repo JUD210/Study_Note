@@ -14,5 +14,5 @@
 # 출력 #1
 # HelloWorld!
 
-str=input()
+str = input()
 print(str)
