@@ -5,13 +5,13 @@
 # 제한사항
 # 1 ≤ str의 길이 ≤ 10
 # 1 ≤ n ≤ 5
-
+# 
 # 입출력 예
-# 입력 #1#
+# 입력 #1
 # string 5
 #
 # 출력 #1
 # stringstringstringstringstring
 
-a, b = input().strip().split(' ')
+a, b = input().strip().split(" ")
 print(a * int(b))

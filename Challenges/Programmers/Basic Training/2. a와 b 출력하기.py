@@ -17,15 +17,15 @@ print("a = " + str(a))
 print("b = " + str(b))
 
 
-# 다른 풀이 1
+# SOL 1
 # a, b = map(int, input().strip().split(' '))
 # print(f"a = {a}\nb = {b}")
 
-# 다른 풀이 2
+# SOL 2
 # a, b = map(int, input().strip().split(' '))
 # print("a =",a)
 # print("b =",b)
 
-# 다른 풀이 3
+# SOL 3
 # a, b = map(int, input().strip().split(' '))
 # print('a = {}\nb = {}'.format(a, b))

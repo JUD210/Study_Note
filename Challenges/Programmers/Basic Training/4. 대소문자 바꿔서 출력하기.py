@@ -18,5 +18,12 @@ for i in str:
     if i.islower():
         res += i.upper()
     elif i.isupper():
-        res += i.lower();
+        res += i.lower()
 print(res)
+
+
+# SOL 1
+# print(input().swapcase())
+
+# SOL 2
+# print(''.join(x.upper() if x == x.lower() else x.lower() for x in input()))
