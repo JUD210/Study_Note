@@ -7,9 +7,9 @@
 # 0 ≤ s ≤ my_string의 길이 - overwrite_string의 길이
 #
 # 입출력 예
-# my_string | overwrite_string | s | result
-# "He11oWor1d" | "lloWorl" | 2 | "HelloWorld"
-# "Program29b8UYP" | "merS123" | 7 | "ProgrammerS123"
+# my_string        | overwrite_string | s | result
+# "He11oWor1d"     | "lloWorl"        | 2 | "HelloWorld"
+# "Program29b8UYP" | "merS123"        | 7 | "ProgrammerS123"
 # 입출력 예 설명
 # 입출력 예 #1
 # 예제 1번의 my_string에서 인덱스 2부터 overwrite_string의 길이만큼에 해당하는 부분은 "11oWor1"이고 이를 "lloWorl"로 바꾼 "HelloWorld"를 return 합니다.
