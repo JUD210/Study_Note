@@ -25,10 +25,10 @@ def solution(a, b, flag):
 
 
 # SOL 1
-# def solution(a, b, flag):
-#     return a + b if flag else a - b
+def solution(a, b, flag):
+    return a + b if flag else a - b
 
 
 # SOL 2
-# def solution(a, b, flag):
-#     return a + b * (2 * int(flag) - 1)
+def solution(a, b, flag):
+    return a + b * (2 * int(flag) - 1)

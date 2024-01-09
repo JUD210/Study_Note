@@ -18,5 +18,5 @@ def solution(arr):
 
 
 # SOL 1
-# def solution(arr):
-#     return ''.join(arr)
+def solution(arr):
+    return "".join(arr)

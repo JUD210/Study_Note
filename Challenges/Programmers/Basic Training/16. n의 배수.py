@@ -22,5 +22,5 @@ def solution(num, n):
 
 
 # SOL 1
-# def solution(num, n):
-#     return int(not(num % n))
+def solution(num, n):
+    return int(not (num % n))

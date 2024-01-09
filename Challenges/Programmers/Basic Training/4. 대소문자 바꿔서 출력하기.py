@@ -23,7 +23,7 @@ print(res)
 
 
 # SOL 1
-# print(input().swapcase())
+print(input().swapcase())
 
 # SOL 2
-# print(''.join(x.upper() if x == x.lower() else x.lower() for x in input()))
+print("".join(x.upper() if x == x.lower() else x.lower() for x in input()))

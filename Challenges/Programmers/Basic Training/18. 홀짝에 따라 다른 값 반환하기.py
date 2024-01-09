@@ -28,11 +28,12 @@ def solution(n):
 
 
 # SOL 1
-# def solution(n):
-#     if n % 2:
-#         return sum(range(1, n + 1, 2))
-#     return sum([i * i for i in range(2, n + 1, 2)])
+def solution(n):
+    if n % 2:
+        return sum(range(1, n + 1, 2))
+    return sum([i * i for i in range(2, n + 1, 2)])
+
 
 # SOL 2
-# def solution(n):
-#     return sum(x ** (2 - x % 2) for x in range(n + 1) if n % 2 == x % 2)
+def solution(n):
+    return sum(x ** (2 - x % 2) for x in range(n + 1) if n % 2 == x % 2)

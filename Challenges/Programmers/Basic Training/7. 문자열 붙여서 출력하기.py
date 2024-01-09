@@ -21,8 +21,8 @@ print(f"{str1}{str2}")
 
 
 # SOL 1
-# print(input().strip().replace(' ', ''))
+print(input().strip().replace(' ', ''))
 
 # SOL 2
-# str1, str2 = input().strip().split(' ')
-# print(str1, str2, sep='')
+str1, str2 = input().strip().split(' ')
+print(str1, str2, sep='')

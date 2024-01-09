@@ -21,8 +21,8 @@ for i in str:
     print(i)
 
 # SOL 1
-# print('\n'.join(input()))
+print("\n".join(input()))
 
 # SOL 2
-# for a in input():
-#     print(a)
+for a in input():
+    print(a)

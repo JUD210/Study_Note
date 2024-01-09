@@ -36,13 +36,13 @@ def solution(a, d, included):
 
 
 # SOL 1
-# def solution(a, d, included):
-#     answer = 0
-#     for i in range(len(included)):
-#         answer += (a + d * i) * int(included[i])
-#     return answer
+def solution(a, d, included):
+    answer = 0
+    for i in range(len(included)):
+        answer += (a + d * i) * int(included[i])
+    return answer
 
 
 # SOL 2
-# def solution(a, d, included):
-#     return sum(a + i * d for i, f in enumerate(included) if f)
+def solution(a, d, included):
+    return sum(a + i * d for i, f in enumerate(included) if f)

@@ -37,43 +37,43 @@ def solution(ineq, eq, n, m):
 
 
 # SOL 1
-# def solution(ineq, eq, n, m):
-#     return int(eval(str(n) + ineq + eq.replace("!", "") + str(m)))
+def solution(ineq, eq, n, m):
+    return int(eval(str(n) + ineq + eq.replace("!", "") + str(m)))
 
 
 # SOL 2
-# def solution(ineq, eq, n, m):
-#     if eq == "!":
-#         eq = ""
-#     return int(eval(f"{n} {ineq}{eq} {m}"))
+def solution(ineq, eq, n, m):
+    if eq == "!":
+        eq = ""
+    return int(eval(f"{n} {ineq}{eq} {m}"))
 
 
 # SOL 3
-# def solution(ineq, eq, n, m):
-#     answer = 0
-#     if n > m and ineq == ">":
-#         answer = 1
-#     elif n < m and ineq == "<":
-#         answer = 1
-#     elif n == m and eq == "=":
-#         answer = 1
-#
-#     return answer
+def solution(ineq, eq, n, m):
+    answer = 0
+    if n > m and ineq == ">":
+        answer = 1
+    elif n < m and ineq == "<":
+        answer = 1
+    elif n == m and eq == "=":
+        answer = 1
+
+    return answer
 
 
 # SOL 4
-# def solution(ineq, eq, n, m):
-#     answer = 0
-#
-#     if (ineq, eq) == ("<", "="):
-#         answer = int(n <= m)
-#     elif (ineq, eq) == (">", "="):
-#         answer = int(n >= m)
-#     elif (ineq, eq) == ("<", "!"):
-#         answer = int(n < m)
-#     elif (ineq, eq) == (">", "!"):
-#         answer = int(n > m)
-#     else:
-#         return "wrong input"
-#
-#     return answer
+def solution(ineq, eq, n, m):
+    answer = 0
+
+    if (ineq, eq) == ("<", "="):
+        answer = int(n <= m)
+    elif (ineq, eq) == (">", "="):
+        answer = int(n >= m)
+    elif (ineq, eq) == ("<", "!"):
+        answer = int(n < m)
+    elif (ineq, eq) == (">", "!"):
+        answer = int(n > m)
+    else:
+        return "wrong input"
+
+    return answer

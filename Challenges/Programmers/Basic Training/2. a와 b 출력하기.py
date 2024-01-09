@@ -18,14 +18,14 @@ print("b = " + str(b))
 
 
 # SOL 1
-# a, b = map(int, input().strip().split(' '))
-# print(f"a = {a}\nb = {b}")
+a, b = map(int, input().strip().split(" "))
+print(f"a = {a}\nb = {b}")
 
 # SOL 2
-# a, b = map(int, input().strip().split(' '))
-# print("a =",a)
-# print("b =",b)
+a, b = map(int, input().strip().split(" "))
+print("a =", a)
+print("b =", b)
 
 # SOL 3
-# a, b = map(int, input().strip().split(' '))
-# print('a = {}\nb = {}'.format(a, b))
+a, b = map(int, input().strip().split(" "))
+print("a = {}\nb = {}".format(a, b))

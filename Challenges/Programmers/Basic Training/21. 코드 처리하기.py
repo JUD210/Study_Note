@@ -56,5 +56,5 @@ def solution(code):
 
 
 # SOL 1
-# def solution(code):
-#     return "".join(code.split("1"))[::2] or "EMPTY"
+def solution(code):
+    return "".join(code.split("1"))[::2] or "EMPTY"

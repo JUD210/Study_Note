@@ -17,10 +17,10 @@ print(str(a) + " + " + str(b) + " = " + str(a + b))
 
 
 # SOL 1
-# a, b = map(int, input().strip().split(' '))
-# print(f"{a} + {b} = {a + b}")
+a, b = map(int, input().strip().split(" "))
+print(f"{a} + {b} = {a + b}")
 
 # SOL 2
-# a, b = map(int, input().strip().split(' '))
-# c = a + b
-# print('{} + {} = {}'.format(a, b, c))
+a, b = map(int, input().strip().split(" "))
+c = a + b
+print("{} + {} = {}".format(a, b, c))

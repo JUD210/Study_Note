@@ -32,5 +32,5 @@ def solution(a, b):
 
 
 # SOL 1
-# def solution(a, b):
-#     return max(int(f"{a}{b}"), int(f"{b}{a}"))
+def solution(a, b):
+    return max(int(f"{a}{b}"), int(f"{b}{a}"))
