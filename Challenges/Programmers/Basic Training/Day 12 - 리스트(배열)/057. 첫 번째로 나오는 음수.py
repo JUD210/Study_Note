@@ -18,7 +18,7 @@
 
 
 def solution(num_list):
-    for i in range(0, len(num_list)):
+    for i in range(len(num_list)):
         if num_list[i] < 0:
             return i
     return -1
@@ -27,3 +27,11 @@ def solution(num_list):
 # SOL 1
 def solution(num_list):
     return ([i for i in range(len(num_list)) if num_list[i] < 0] or [-1])[0]
+
+
+# GPT
+def solution(num_list):
+    try:
+        return num_list.index(next(x for x in num_list if x < 0))
+    except StopIteration:
+        return -1
